@@ -1,0 +1,493 @@
+Year,Category,Player,Team,Value,Source
+2000,Base on Balls,Jason Giambi,Oakland,137,Player Review
+2000,Batting Average,Nomar Garciaparra,Boston,.372,Player Review
+2000,Doubles,Carlos Delgado,Toronto,57,Player Review
+2000,Hits,Darin Erstad,Anaheim,240,Player Review
+2000,Home Runs,Troy Glaus,Anaheim,47,Player Review
+2000,On Base Percentage,Jason Giambi,Oakland,.476,Player Review
+2000,RBI,Edgar Martinez,Seattle,145,Player Review
+2000,Runs,Johnny Damon,Kansas City,136,Player Review
+2000,Slugging Average,Manny Ramirez,Cleveland,.697,Player Review
+2000,Stolen Bases,Johnny Damon,Kansas City,46,Player Review
+2000,Total Bases,Carlos Delgado,Toronto,378,Player Review
+2000,Triples,Cristian Guzman,Minnesota,20,Player Review
+2000,Complete Games,David Wells,Toronto,9,Pitcher Review
+2000,ERA,Pedro Martinez,Boston,1.74,Pitcher Review
+2000,Games,Kelly Wunsch,Chicago,83,Pitcher Review
+2000,Saves,Todd Jones,Detroit,42,Pitcher Review
+2000,Shutouts,Pedro Martinez,Boston,4,Pitcher Review
+2000,Strikeouts,Pedro Martinez,Boston,284,Pitcher Review
+2000,Winning Percentage,Tim Hudson,Oakland,.769,Pitcher Review
+2000,Wins,Tim Hudson,Oakland,20,Pitcher Review
+2001,Base on Balls,Jason Giambi,Oakland,129,Player Review
+2001,Batting Average,Ichiro Suzuki,Seattle,.350,Player Review
+2001,Doubles,Jason Giambi,Oakland,47,Player Review
+2001,Hits,Ichiro Suzuki,Seattle,242,Player Review
+2001,Home Runs,Alex Rodriguez,Texas,52,Player Review
+2001,On Base Percentage,Jason Giambi,Oakland,.477,Player Review
+2001,RBI,Bret Boone,Seattle,141,Player Review
+2001,Runs,Alex Rodriguez,Texas,133,Player Review
+2001,Slugging Average,Jason Giambi,Oakland,.660,Player Review
+2001,Stolen Bases,Ichiro Suzuki,Seattle,56,Player Review
+2001,Total Bases,Alex Rodriguez,Texas,393,Player Review
+2001,Triples,Cristian Guzman,Minnesota,14,Player Review
+2001,Complete Games,Steve Sparks,Detroit,8,Pitcher Review
+2001,ERA,Freddy Garcia,Seattle,3.05,Pitcher Review
+2001,Games,Paul Quantrill,Toronto,80,Pitcher Review
+2001,Saves,Mariano Rivera,New York,50,Pitcher Review
+2001,Shutouts,Mark Mulder,Oakland,4,Pitcher Review
+2001,Strikeouts,Hideo Nomo,Boston,220,Pitcher Review
+2001,Winning Percentage,Roger Clemens,New York,.870,Pitcher Review
+2001,Wins,Mark Mulder,Oakland,21,Pitcher Review
+2002,Base on Balls,Jim Thome,Cleveland,122,Player Review
+2002,Batting Average,Manny Ramirez,Boston,.349,Player Review
+2002,Doubles,Garret Anderson,Anaheim,56,Player Review
+2002,Hits,Alfonso Soriano,New York,209,Player Review
+2002,Home Runs,Alex Rodriguez,Texas,57,Player Review
+2002,On Base Percentage,Manny Ramirez,Boston,.450,Player Review
+2002,RBI,Alex Rodriguez,Texas,142,Player Review
+2002,Runs,Alfonso Soriano,New York,128,Player Review
+2002,Slugging Average,Jim Thome,Cleveland,.677,Player Review
+2002,Stolen Bases,Alfonso Soriano,New York,41,Player Review
+2002,Total Bases,Alex Rodriguez,Texas,389,Player Review
+2002,Triples,Johnny Damon,Boston,11,Player Review
+2002,Complete Games,Paul Byrd,Kansas City,7,Pitcher Review
+2002,ERA,Pedro Martinez,Boston,2.26,Pitcher Review
+2002,Games,Billy Koch,Oakland,84,Pitcher Review
+2002,Saves,Eddie Guardado,Minnesota,45,Pitcher Review
+2002,Shutouts,Jeff Weaver,New York,3,Pitcher Review
+2002,Strikeouts,Pedro Martinez,Boston,239,Pitcher Review
+2002,Winning Percentage,Pedro Martinez,Boston,.833,Pitcher Review
+2002,Wins,Barry Zito,Oakland,23,Pitcher Review
+2003,Base on Balls,Jason Giambi,New York,129,Player Review
+2003,Batting Average,Bill Mueller,Boston,.326,Player Review
+2003,Doubles,Garret Anderson,Anaheim,49,Player Review
+2003,Hits,Vernon Wells,Toronto,215,Player Review
+2003,Home Runs,Alex Rodriguez,Texas,47,Player Review
+2003,On Base Percentage,Manny Ramirez,Boston,.427,Player Review
+2003,RBI,Carlos Delgado,Toronto,145,Player Review
+2003,Runs,Alex Rodriguez,Texas,124,Player Review
+2003,Slugging Average,Alex Rodriguez,Texas,.600,Player Review
+2003,Stolen Bases,Carl Crawford,Tampa Bay,55,Player Review
+2003,Total Bases,Vernon Wells,Toronto,373,Player Review
+2003,Triples,Cristian Guzman,Minnesota,14,Player Review
+2003,Complete Games,Bartolo Colon,Chicago,9,Pitcher Review
+2003,ERA,Pedro Martinez,Boston,2.22,Pitcher Review
+2003,Games,Trever Miller,Toronto,79,Pitcher Review
+2003,Saves,Keith Foulke,Oakland,43,Pitcher Review
+2003,Shutouts,Roy Halladay,Toronto,2,Pitcher Review
+2003,Strikeouts,Esteban Loaiza,Chicago,207,Pitcher Review
+2003,Winning Percentage,Roy Halladay,Toronto,.759,Pitcher Review
+2003,Wins,Roy Halladay,Toronto,22,Pitcher Review
+2004,Base on Balls,Eric Chavez,Oakland,95,Player Review
+2004,Batting Average,Ichiro Suzuki,Seattle,.372,Player Review
+2004,Doubles,Brian Roberts,Baltimore,50,Player Review
+2004,Hits,Ichiro Suzuki,Seattle,262,Player Review
+2004,Home Runs,Manny Ramirez,Boston,43,Player Review
+2004,On Base Percentage,Melvin Mora,Baltimore,.419,Player Review
+2004,RBI,Miguel Tejada,Baltimore,150,Player Review
+2004,Runs,Vladimir Guerrero,Anaheim,124,Player Review
+2004,Slugging Average,Manny Ramirez,Boston,.613,Player Review
+2004,Stolen Bases,Carl Crawford,Tampa Bay,59,Player Review
+2004,Total Bases,Vladimir Guerrero,Anaheim,366,Player Review
+2004,Triples,Carl Crawford,Tampa Bay,19,Player Review
+2004,Complete Games,Mark Mulder,Oakland,5,Pitcher Review
+2004,ERA,Johan Santana,Minnesota,2.61,Pitcher Review
+2004,Games,Paul Quantrill,New York,86,Pitcher Review
+2004,Saves,Mariano Rivera,New York,53,Pitcher Review
+2004,Shutouts,Jeremy Bonderman,Detroit,2,Pitcher Review
+2004,Strikeouts,Johan Santana,Minnesota,265,Pitcher Review
+2004,Winning Percentage,Curt Schilling,Boston,.778,Pitcher Review
+2004,Wins,Curt Schilling,Boston,21,Pitcher Review
+2005,Base on Balls,Jason Giambi,New York,108,Player Review
+2005,Batting Average,Michael Young,Texas,.331,Player Review
+2005,Doubles,Miguel Tejada,Baltimore,50,Player Review
+2005,Hits,Michael Young,Texas,221,Player Review
+2005,Home Runs,Alex Rodriguez,New York,48,Player Review
+2005,On Base Percentage,Jason Giambi,New York,.440,Player Review
+2005,RBI,David Ortiz,Boston,148,Player Review
+2005,Runs,Alex Rodriguez,New York,124,Player Review
+2005,Slugging Average,Alex Rodriguez,New York,.610,Player Review
+2005,Stolen Bases,Chone Figgins,Los Angeles,62,Player Review
+2005,Total Bases,Mark Teixeira,Texas,370,Player Review
+2005,Triples,Carl Crawford,Tampa Bay,15,Player Review
+2005,Complete Games,Roy Halladay,Toronto,5,Pitcher Review
+2005,ERA,Kevin Millwood,Cleveland,2.86,Pitcher Review
+2005,Games,Mike Timlin,Boston,81,Pitcher Review
+2005,Saves,Francisco Rodriguez,Los Angeles,45,Pitcher Review
+2005,Shutouts,Jon Garland,Chicago,3,Pitcher Review
+2005,Strikeouts,Johan Santana,Minnesota,238,Pitcher Review
+2005,Winning Percentage,Cliff Lee,Cleveland,.783,Pitcher Review
+2005,Wins,Bartolo Colon,Los Angeles,21,Pitcher Review
+2006,Base on Balls,David Ortiz,Boston,119,Player Review
+2006,Batting Average,Joe Mauer,Minnesota,.347,Player Review
+2006,Doubles,Grady Sizemore,Cleveland,53,Player Review
+2006,Hits,Ichiro Suzuki,Seattle,224,Player Review
+2006,Home Runs,David Ortiz,Boston,54,Player Review
+2006,On Base Percentage,Manny Ramirez,Boston,.439,Player Review
+2006,RBI,David Ortiz,Boston,137,Player Review
+2006,Runs,Grady Sizemore,Cleveland,134,Player Review
+2006,Slugging Average,Travis Hafner,Cleveland,.659,Player Review
+2006,Stolen Bases,Carl Crawford,Tampa Bay,58,Player Review
+2006,Total Bases,David Ortiz,Boston,355,Player Review
+2006,Triples,Carl Crawford,Tampa Bay,16,Player Review
+2006,Complete Games,C.C. Sabathia,Cleveland,6,Pitcher Review
+2006,ERA,Johan Santana,Minnesota,2.77,Pitcher Review
+2006,Games,Scott Proctor,New York,83,Pitcher Review
+2006,Saves,Francisco Rodriguez,Los Angeles,47,Pitcher Review
+2006,Shutouts,John Lackey,Los Angeles,2,Pitcher Review
+2006,Strikeouts,Johan Santana,Minnesota,245,Pitcher Review
+2006,Winning Percentage,Roy Halladay,Toronto,.762,Pitcher Review
+2006,Wins,Johan Santana,Minnesota,19,Pitcher Review
+2007,Base on Balls,David Ortiz,Boston,111,Player Review
+2007,Batting Average,Magglio Ordonez,Detroit,.363,Player Review
+2007,Doubles,Magglio Ordonez,Detroit,54,Player Review
+2007,Hits,Ichiro Suzuki,Seattle,238,Player Review
+2007,Home Runs,Alex Rodriguez,New York,54,Player Review
+2007,On Base Percentage,David Ortiz,Boston,.445,Player Review
+2007,RBI,Alex Rodriguez,New York,156,Player Review
+2007,Runs,Alex Rodriguez,New York,143,Player Review
+2007,Slugging Average,Alex Rodriguez,New York,.645,Player Review
+2007,Stolen Bases,Carl Crawford,Tampa Bay,50,Player Review
+2007,Total Bases,Alex Rodriguez,New York,376,Player Review
+2007,Triples,Curtis Granderson,Detroit,23,Player Review
+2007,Complete Games,Roy Halladay,Toronto,7,Pitcher Review
+2007,ERA,John Lackey,Los Angeles,3.01,Pitcher Review
+2007,Games,Jamie Walker,Baltimore,81,Pitcher Review
+2007,Saves,Joe Borowski,Cleveland,45,Pitcher Review
+2007,Shutouts,Paul Byrd,Cleveland,2,Pitcher Review
+2007,Strikeouts,Scott Kazmir,Tampa Bay,239,Pitcher Review
+2007,Winning Percentage,Justin Verlander,Detroit,.762,Pitcher Review
+2007,Wins,Josh Beckett,Boston,20,Pitcher Review
+2008,Base on Balls,Jack Cust,Oakland,111,Player Review
+2008,Batting Average,Joe Mauer,Minnesota,.330,Player Review
+2008,Doubles,Dustin Pedroia,Boston,54,Player Review
+2008,Hits,Dustin Pedroia,Boston,213,Player Review
+2008,Home Runs,Miguel Cabrera,Detroit,37,Player Review
+2008,On Base Percentage,Milton Bradley,Texas,.436,Player Review
+2008,RBI,Josh Hamilton,Texas,130,Player Review
+2008,Runs,Dustin Pedroia,Boston,118,Player Review
+2008,Slugging Average,Alex Rodriguez,New York,.573,Player Review
+2008,Stolen Bases,Jacoby Ellsbury,Boston,50,Player Review
+2008,Total Bases,Josh Hamilton,Texas,331,Player Review
+2008,Triples,Curtis Granderson,Detroit,13,Player Review
+2009,Base on Balls,Chone Figgins,Los Angeles,101,Player Review
+2009,Batting Average,Joe Mauer,Minnesota,.365,Player Review
+2009,Doubles,Brian Roberts,Baltimore,56,Player Review
+2009,Hits,Ichiro Suzuki,Seattle,225,Player Review
+2009,Home Runs,Carlos Pena,Tampa Bay,39,Player Review
+2009,On Base Percentage,Joe Mauer,Minnesota,.444,Player Review
+2009,RBI,Mark Teixeira,New York,122,Player Review
+2009,Runs,DustinPedroia,Boston,115,Player Review
+2009,Slugging Average,Joe Mauer,Minnesota,.587,Player Review
+2009,Stolen Bases,Jacoby Ellsbury,Boston,70,Player Review
+2009,Total Bases,Mark Teixeira,New York,344,Player Review
+2009,Triples,Jacoby Ellsbury,Boston,10,Player Review
+2009,Complete Games,Roy Halladay,Toronto,9,Pitcher Review
+2009,ERA,Zack Greinke,Kansas City,2.16,Pitcher Review
+2009,Games,Matt Guerrier,Minnesota,79,Pitcher Review
+2009,Saves,Brian Fuentes,Los Angeles,48,Pitcher Review
+2009,Shutouts,Roy Halladay,Toronto,4,Pitcher Review
+2009,Strikeouts,Justin Verlander,Detroit,269,Pitcher Review
+2009,Winning Percentage,Felix Hernandez,Seattle,.792,Pitcher Review
+2009,Wins,Felix Hernandez,Seattle,19,Pitcher Review
+2010,Base on Balls,Daric Barton,Oakland,110,Player Review
+2010,Batting Average,Josh Hamilton,Texas,.359,Player Review
+2010,Doubles,Adrian Beltre,Boston,49,Player Review
+2010,Hits,Ichiro Suzuki,Seattle,214,Player Review
+2010,Home Runs,Jose Bautista,Toronto,54,Player Review
+2010,On Base Percentage,Miguel Cabrera,Detroit,.420,Player Review
+2010,RBI,Miguel Cabrera,Detroit,126,Player Review
+2010,Runs,Mark Teixeira,New York,113,Player Review
+2010,Slugging Average,Josh Hamilton,Texas,.633,Player Review
+2010,Stolen Bases,Juan Pierre,Chicago,68,Player Review
+2010,Total Bases,Jose Bautista,Toronto,351,Player Review
+2010,Triples,Carl Crawford,Tampa Bay,13,Player Review
+2010,Complete Games,Cliff Lee,Seattle / Texas,7,Pitcher Review
+2010,ERA,Felix Hernandez,Seattle,2.27,Pitcher Review
+2010,Games,Randy Choate,Tampa Bay,85,Pitcher Review
+2010,Saves,Rafael Soriano,Tampa Bay,45,Pitcher Review
+2010,Shutouts,Dallas Braden,Oakland,2,Pitcher Review
+2010,Strikeouts,Jered Weaver,Los Angeles,233,Pitcher Review
+2010,Winning Percentage,Tommy Hunter,Texas,.765,Pitcher Review
+2010,Wins,C.C. Sabathia,New York,21,Pitcher Review
+2011,Base on Balls,Jose Bautista,Toronto,132,Player Review
+2011,Batting Average,Miguel Cabrera,Detroit,.344,Player Review
+2011,Doubles,Miguel Cabrera,Detroit,48,Player Review
+2011,Hits,Adrian Gonzalez,Boston,213,Player Review
+2011,Home Runs,Jose Bautista,Toronto,43,Player Review
+2011,On Base Percentage,Miguel Cabrera,Detroit,.448,Player Review
+2011,RBI,Curtis Granderson,New York,119,Player Review
+2011,Runs,Curtis Granderson,New York,136,Player Review
+2011,Slugging Average,Jose Bautista,Toronto,.608,Player Review
+2011,Stolen Bases,Coco Crisp,Oakland,49,Player Review
+2011,Total Bases,Jacoby Ellsbury,Boston,364,Player Review
+2011,Triples,Peter Bourjos,Los Angeles,11,Player Review
+2011,Complete Games,James Shields,Tampa Bay,11,Pitcher Review
+2011,ERA,Justin Verlander,Detroit,2.40,Pitcher Review
+2011,Games,Jose Valverde,Detroit,75,Pitcher Review
+2011,Saves,Jose Valverde,Detroit,49,Pitcher Review
+2011,Shutouts,Derek Holland,Texas,4,Pitcher Review
+2011,Strikeouts,Justin Verlander,Detroit,250,Pitcher Review
+2011,Winning Percentage,Justin Verlander,Detroit,.828,Pitcher Review
+2011,Wins,Justin Verlander,Detroit,24,Pitcher Review
+2012,Base on Balls,Adam Dunn,Chicago,105,Player Review
+2012,Batting Average,Miguel Cabrera,Detroit,.330,Player Review
+2012,Doubles,Alex Gordon,Kansas City,51,Player Review
+2012,Hits,Derek Jeter,New York,216,Player Review
+2012,Home Runs,Miguel Cabrera,Detroit,44,Player Review
+2012,On Base Percentage,Joe Mauer,Minnesota,.416,Player Review
+2012,RBI,Miguel Cabrera,Detroit,139,Player Review
+2012,Runs,Mike Trout,Los Angeles,129,Player Review
+2012,Slugging Average,Miguel Cabrera,Detroit,.606,Player Review
+2012,Stolen Bases,Mike Trout,Los Angeles,49,Player Review
+2012,Total Bases,Miguel Cabrera,Detroit,377,Player Review
+2012,Triples,Austin Jackson,Detroit,10,Player Review
+2012,Complete Games,Justin Verlander,Detroit,6,Pitcher Review
+2012,ERA,David Price,Tampa Bay,2.56,Pitcher Review
+2012,Games,Boone Logan,New York,80,Pitcher Review
+2012,Saves,Jim Johnson,Baltimore,51,Pitcher Review
+2012,Shutouts,Felix Hernandez,Seattle,5,Pitcher Review
+2012,Strikeouts,Justin Verlander,Detroit,239,Pitcher Review
+2012,Winning Percentage,David Price,Tampa Bay,.800,Pitcher Review
+2012,Wins,David Price,Tampa Bay,20,Pitcher Review
+2013,Base on Balls,Mike Trout,Los Angeles,110,Player Review
+2013,Batting Average,Miguel Cabrera,Detroit,.348,Player Review
+2013,Doubles,Manny Machado,Baltimore,51,Player Review
+2013,Hits,Adrian Beltre,Texas,199,Player Review
+2013,Home Runs,Chris Davis,Baltimore,53,Player Review
+2013,On Base Percentage,Miguel Cabrera,Detroit,.442,Player Review
+2013,RBI,Chris Davis,Baltimore,138,Player Review
+2013,Runs,Mike Trout,Los Angeles,109,Player Review
+2013,Slugging Average,Miguel Cabrera,Detroit,.636,Player Review
+2013,Stolen Bases,Jacoby Ellsbury,Boston,52,Player Review
+2013,Total Bases,Chris Davis,Baltimore,370,Player Review
+2013,Triples,Brett Gardner,New York,10,Player Review
+2013,Complete Games,David Price,Tampa Bay,4,Pitcher Review
+2013,ERA,Anibal Sanchez,Detroit,2.57,Pitcher Review
+2013,Games,Joel Peralta,Tampa Bay,80,Pitcher Review
+2013,Saves,Jim Johnson,Baltimore,50,Pitcher Review
+2013,Shutouts,Bartolo Colon,Oakland,3,Pitcher Review
+2013,Strikeouts,Yu Darvish,Texas,277,Pitcher Review
+2013,Winning Percentage,Max Scherzer,Detroit,.875,Pitcher Review
+2013,Wins,Max Scherzer,Detroit,21,Pitcher Review
+2014,Base on Balls,Carlos Santana,Cleveland,113,Player Review
+2014,Batting Average,Jose Altuve,Houston,.341,Player Review
+2014,Doubles,Miguel Cabrera,Detroit,52,Player Review
+2014,Hits,Jose Altuve,Houston,225,Player Review
+2014,Home Runs,Nelson Cruz,Baltimore,40,Player Review
+2014,On Base Percentage,Victor Martinez,Detroit,.409,Player Review
+2014,RBI,Mike Trout,Los Angeles,111,Player Review
+2014,Runs,Mike Trout,Los Angeles,115,Player Review
+2014,Slugging Average,Jose Abreu,Chicago,.581,Player Review
+2014,Stolen Bases,Jose Altuve,Chicago,56,Player Review
+2014,Total Bases,Mike Trout,Los Angeles,338,Player Review
+2014,Triples,Michael Bourn,Cleveland,10,Player Review
+2014,Complete Games,Dallas Keuchel,Houston,5,Pitcher Review
+2014,ERA,Felix Hernandez,Seattle,2.14,Pitcher Review
+2014,Games,Bryan Shaw,Cleveland,80,Pitcher Review
+2014,Saves,Fernando Rodney,Seattle,48,Pitcher Review
+2014,Shutouts,Rick Porcello,Detroit,3,Pitcher Review
+2014,Strikeouts,David Price,Tampa Bay / Detroit,271,Pitcher Review
+2014,Winning Percentage,Max Scherzer,Detroit,.783,Pitcher Review
+2014,Wins,Corey Kluber,Texas,18,Pitcher Review
+2015,Base on Balls,Jose Bautista,Toronto,110,Player Review
+2015,Batting Average,Miguel Cabrera,Detroit,.338,Player Review
+2015,Doubles,Michael Brantley,Cleveland,45,Player Review
+2015,Hits,Jose Altuve,Houston,200,Player Review
+2015,Home Runs,Chris Davis,Baltimore,47,Player Review
+2015,On Base Percentage,Miguel Cabrera,Detroit,.440,Player Review
+2015,RBI,Josh Donaldson,Toronto,123,Player Review
+2015,Runs,Josh Donaldson,Toronto,122,Player Review
+2015,Slugging Average,Mike Trout,Los Angeles,.590,Player Review
+2015,Stolen Bases,Jose Altuve,Houston,38,Player Review
+2015,Total Bases,Josh Donaldson,Toronto,352,Player Review
+2015,Triples,Eddie Rosario,Minnesota,15,Player Review
+2015,Complete Games,Mark Buehrle,Toronto,4,Pitcher Review
+2015,ERA,David Price,Detroit / Toronto,2.45,Pitcher Review
+2015,Games,Kevin Jepsen,Tampa Bay / Minnesota,75,Pitcher Review
+2015,Saves,Brad Boxberger,Tampa Bay,41,Pitcher Review
+2015,Shutouts,Sonny Gray,Oakland,2,Pitcher Review
+2015,Strikeouts,Chris Sale,Chicago,274,Pitcher Review
+2015,Winning Percentage,David Price,Detroit / Toronto,.783,Pitcher Review
+2015,Wins,Dallas Keuchel,Houston,20,Pitcher Review
+2016,Base on Balls,Mike Trout,Los Angeles,116,Player Review
+2016,Batting Average,Jose Altuve,Houston,.338,Player Review
+2016,Doubles,David Ortiz,Boston,48,Player Review
+2016,Hits,Jose Altuve,Houston,216,Player Review
+2016,Home Runs,Mark Trumbo,Baltimore,47,Player Review
+2016,On Base Percentage,Mike Trout,Los Angeles,.441,Player Review
+2016,RBI,Edwin Encarnacion,Toronto,127,Player Review
+2016,Runs,Mike Trout,Los Angeles,123,Player Review
+2016,Slugging Average,David Ortiz,Boston,.620,Player Review
+2016,Stolen Bases,Rajai Davis,Cleveland,43,Player Review
+2016,Total Bases,Mookie Betts,Boston,359,Player Review
+2016,Triples,Adam Eaton,Chicago,9,Player Review
+2016,Complete Games,Chris Sale,Chicago,6,Pitcher Review
+2016,ERA,Aaron Sanchez,Toronto,3.00,Pitcher Review
+2016,Games,Bryan Shaw,Cleveland,75,Pitcher Review
+2016,Saves,Zach Britton,Baltimore,47,Pitcher Review
+2016,Shutouts,Corey Kluber,Cleveland,2,Pitcher Review
+2016,Strikeouts,Justin Verlander,Detroit,254,Pitcher Review
+2016,Winning Percentage,Aaron Sanchez,Toronto,.882,Pitcher Review
+2016,Wins,Rick Porcello,Boston,22,Pitcher Review
+2017,Base on Balls,Aaron Judge,New York Yankees,127,Player Review
+2017,Batting Average,Jose Altuve,Houston Astros,.346,Player Review
+2017,Doubles,Jose Ramirez,Cleveland Indians,56,Player Review
+2017,Hits,Jose Altuve,Houston Astros,204,Player Review
+2017,Home Runs,Aaron Judge,New York Yankees,52,Player Review
+2017,On Base Percentage,Mike Trout,Los Angeles Angels,.442,Player Review
+2017,RBI,Nelson Cruz,Seattle Mariners,119,Player Review
+2017,Runs,Aaron Judge,New York Yankees,128,Player Review
+2017,Slugging Average,Mike Trout,Los Angeles Angels,.629,Player Review
+2017,Stolen Bases,Whit Merrifield,Kansas City Royals,34,Player Review
+2017,Total Bases,Jose Abreu,Chicago White Sox,343,Player Review
+2017,Triples,Nick Castellanos,Detroit Tigers,10,Player Review
+2017,Complete Games,Corey Kluber,Cleveland Indians,5,Pitcher Review
+2017,ERA,Corey Kluber,Cleveland Indians,2.25,Pitcher Review
+2017,Games,Bryan Shaw,Cleveland Indians,79,Pitcher Review
+2017,Saves,Alex Colome,Tampa Bay Rays,46,Pitcher Review
+2017,Shutouts,Corey Kluber,Cleveland Indians,3,Pitcher Review
+2017,Strikeouts,Chris Sale,Boston Red Sox,308,Pitcher Review
+2017,Winning Percentage,Corey Kluber,Cleveland Indians,.818,Pitcher Review
+2017,Wins,Carlos Carrasco,Cleveland Indians,18,Pitcher Review
+2018,Base on Balls,Mike Trout,Los Angeles Angels,122,Player Review
+2018,Batting Average,Mookie Betts,Boston Red Sox,.346,Player Review
+2018,Doubles,Alex Bregman,Houston Astros,50,Player Review
+2018,Hits,Whit Merrifield,Kansas City Royals,192,Player Review
+2018,Home Runs,Khris Davis,Oakland Athletics,48,Player Review
+2018,On Base Percentage,Mike Trout,Los Angeles Angels,.460,Player Review
+2018,RBI,J.D. Martinez,Boston Red Sox,130,Player Review
+2018,Runs,Mookie Betts,Boston Red Sox,129,Player Review
+2018,Slugging Average,Mookie Betts,Boston Red Sox,.640,Player Review
+2018,Stolen Bases,Whit Merrifield,Kansas City Royals,45,Player Review
+2018,Total Bases,J.D. Martinez,Boston Red Sox,358,Player Review
+2018,Triples,Yolmer Sanchez,Chicago White Sox,10,Player Review
+2018,Complete Games,Jose Berrios,Minnesota Twins,2,Pitcher Review
+2018,ERA,Blake Snell,Tampa Bay Rays,1.89,Pitcher Review
+2018,Games,Ryan Pressly,Minnesota Twins,77,Pitcher Review
+2018,Saves,Edwin Diaz,Seattle Mariners,57,Pitcher Review
+2018,Shutouts,Jose Berrios,Minnesota Twins,1,Pitcher Review
+2018,Strikeouts,Justin Verlander,Houston Astros,290,Pitcher Review
+2018,Winning Percentage,Charlie Morton,Houston Astros,.833,Pitcher Review
+2018,Wins,Blake Snell,Tampa Bay Rays,21,Pitcher Review
+2019,Base on Balls,Alex Bregman,Houston Astros,119,Player Review
+2019,Batting Average,Tim Anderson,Chicago White Sox,.335,Player Review
+2019,Doubles,Rafael Devers,Boston Red Sox,54,Player Review
+2019,Hits,Whit Merrifield,Kansas City Royals,206,Player Review
+2019,Home Runs,Jorge Soler,Kansas City Royals,48,Player Review
+2019,On Base Percentage,Mike Trout,Los Angeles Angels,.438,Player Review
+2019,RBI,Jose Abreu,Chicago White Sox,123,Player Review
+2019,Runs,Mookie Betts,Boston Red Sox,135,Player Review
+2019,Slugging Average,Mike Trout,Los Angeles Angels,.645,Player Review
+2019,Stolen Bases,Mallex Smith,Tampa Bay Rays,46,Player Review
+2019,Total Bases,Rafael Devers,Boston Red Sox,359,Player Review
+2019,Triples,Hunter Dozier,Kansas City Royals,10,Player Review
+2019,Complete Games,Shane Bieber,Cleveland Indians,3,Pitcher Review
+2019,ERA,Gerrit Cole,Houston Astros,2.50,Pitcher Review
+2019,Games,Yusmeiro Petit,Oakland Athletics,80,Pitcher Review
+2019,Saves,Roberto Osuna,Houston Astros,38,Pitcher Review
+2019,Shutouts,Shane Bieber,Cleveland Indians,2,Pitcher Review
+2019,Strikeouts,Gerrit Cole,Houston Astros,326,Pitcher Review
+2019,Winning Percentage,Gerrit Cole,Houston Astros,.800,Pitcher Review
+2019,Wins,Justin Verlander,Houston Astros,21,Pitcher Review
+2020,Base on Balls,Carlos Santana,Cleveland Indians,47,Player Review
+2020,Batting Average,DJ LeMahieu,New York Yankees,.364,Player Review
+2020,Doubles,Cesar Hernandez,Cleveland Indians,20,Player Review
+2020,Hits,Jose Abreu,Chicago White Sox,76,Player Review
+2020,Home Runs,Luke Voit,New York Yankees,22,Player Review
+2020,On Base Percentage,DJ LeMahieu,New York Yankees,.421,Player Review
+2020,RBI,Jose Abreu,Chicago White Sox,60,Player Review
+2020,Runs,Tim Anderson,Chicago White Sox,45,Player Review
+2020,Slugging Average,Jose Abreu,Chicago White Sox,.617,Player Review
+2020,Stolen Bases,Adalberto Mondesi,Kansas City Royals,24,Player Review
+2020,Total Bases,Jose Abreu,Chicago White Sox,148,Player Review
+2020,Triples,Kyle Tucker,Houston Astros,6,Player Review
+2020,Complete Games,Gerrit Cole,New York Yankees,2,Pitcher Review
+2020,ERA,Shane Bieber,Cleveland Indians,1.63,Pitcher Review
+2020,Games,Scott Barlow,Kansas City Royals,32,Pitcher Review
+2020,Saves,Brad Hand,Cleveland Indians,16,Pitcher Review
+2020,Shutouts,Gerrit Cole,New York Yankees,1,Pitcher Review
+2020,Strikeouts,Shane Bieber,Cleveland Indians,122,Pitcher Review
+2020,Winning Percentage,Shane Bieber,Cleveland Indians,.889,Pitcher Review
+2020,Wins,Shane Bieber,Cleveland Indians,8,Pitcher Review
+2021,Base on Balls,Joey Gallo,Texas Rangers,111,Player Review
+2021,Batting Average,Yuli Gurriel,Houston Astros,.319,Player Review
+2021,Doubles,Jeimer Candelario,Detroit Tigers,42,Player Review
+2021,Hits,Bo Bichette,Toronto Blue Jays,191,Player Review
+2021,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48,Player Review
+2021,On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,.401,Player Review
+2021,RBI,Salvador Perez,Kansas City Royals,121,Player Review
+2021,Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123,Player Review
+2021,Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,.601,Player Review
+2021,Stolen Bases,Whit Merrifield,Kansas City Royals,40,Player Review
+2021,Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363,Player Review
+2021,Triples,Shohei Ohtani,Los Angeles Angels,8,Player Review
+2021,Complete Games,Gerrit Cole,New York Yankees,2,Pitcher Review
+2021,ERA,Robbie Ray,Toronto Blue Jays,2.84,Pitcher Review
+2021,Games,Bryan Shaw,Cleveland Indians,81,Pitcher Review
+2021,Saves,Liam Hendriks,Chicago White Sox,38,Pitcher Review
+2021,Shutouts,Sean Manaea,Oakland Athletics,2,Pitcher Review
+2021,Strikeouts,Robbie Ray,Toronto Blue Jays,248,Pitcher Review
+2021,Winning Percentage,"Lance McCullers, Jr.",Houston Astros,.722,Pitcher Review
+2021,Wins,Gerrit Cole,New York Yankees,16,Pitcher Review
+2022,Base on Balls,Aaron Judge,New York Yankees,111,Player Review
+2022,Batting Average,Luis Arraez,Minnesota Twins,.316,Player Review
+2022,Doubles,José Ramírez,Cleveland Guardians,44,Player Review
+2022,Hits,Bo Bichette,Toronto Blue Jays,189,Player Review
+2022,Home Runs,Aaron Judge,New York Yankees,62,Player Review
+2022,On Base Percentage,Aaron Judge,New York Yankees,.425,Player Review
+2022,RBI,Aaron Judge,New York Yankees,131,Player Review
+2022,Runs,Aaron Judge,New York Yankees,133,Player Review
+2022,Slugging Average,Aaron Judge,New York Yankees,.686,Player Review
+2022,Stolen Bases,Jorge Mateo,Baltimore Orioles,35,Player Review
+2022,Total Bases,Aaron Judge,New York Yankees,391,Player Review
+2022,Triples,Amed Rosario,Cleveland Guardians,9,Player Review
+2022,Complete Games,Framber Valdez,Houston Astros,3,Pitcher Review
+2022,ERA,Justin Verlander,Houston Astros,1.75,Pitcher Review
+2022,Games,Adam Cimber,Toronto Blue Jays,77,Pitcher Review
+2022,Saves,Emmanuel Clase,Cleveland Guardians,42,Pitcher Review
+2022,Shutouts,Dylan Cease,Chicago White Sox,1,Pitcher Review
+2022,Strikeouts,Corbin Burnes,Milwaukee Brewers,243,Pitcher Review
+2022,Winning Percentage,Justin Verlander,Houston Astros,.818,Pitcher Review
+2022,Wins,Justin Verlander,Houston Astros,18,Pitcher Review
+2023,Base on Balls,J.P. Crawford,Seattle Mariners,94,Player Review
+2023,Batting Average,Yandy Díaz,Tampa Bay Rays,.330,Player Review
+2023,Doubles,Corey Seager,Texas Rangers,42,Player Review
+2023,Hits,Marcus Semien,Texas Rangers,185,Player Review
+2023,Home Runs,Shohei Ohtani,Los Angeles Angels,44,Player Review
+2023,On Base Percentage,Shohei Ohtani,Los Angeles Angels,.412,Player Review
+2023,RBI,Kyle Tucker,Houston Astros,112,Player Review
+2023,Runs,Marcus Semien,Texas Rangers,122,Player Review
+2023,Slugging Average,Shohei Ohtani,Los Angeles Angels,.654,Player Review
+2023,Stolen Bases,Esteury Ruiz,Oakland Athletics,67,Player Review
+2023,Total Bases,Shohei Ohtani,Los Angeles Angels,325,Player Review
+2023,Triples,Bobby Witt Jr.,Kansas City Royals,11,Player Review
+2023,Complete Games,Jordan Lyles,Kansas City Royals,3,Pitcher Review
+2023,ERA,Gerrit Cole,New York Yankees,2.63,Pitcher Review
+2023,Games,Matt Brash,Seattle Mariners,78,Pitcher Review
+2023,Saves,Emmanuel Clase,Cleveland Guardians,44,Pitcher Review
+2023,Shutouts,Gerrit Cole,New York Yankees,2,Pitcher Review
+2023,Strikeouts,Kevin Gausman,Toronto Blue Jays,237,Pitcher Review
+2023,Winning Percentage,Gerrit Cole,New York Yankees,.789,Pitcher Review
+2023,Wins,Chris Bassitt,Toronto Blue Jays,16,Pitcher Review
+2024,Base on Balls,Aaron Judge,New York,133,Player Review
+2024,Batting Average,Bobby Witt Jr.,Kansas City,.332,Player Review
+2024,Doubles,Jarren Duran,Boston,48,Player Review
+2024,Hits,Bobby Witt Jr.,Kansas City,211,Player Review
+2024,Home Runs,Aaron Judge,New York,58,Player Review
+2024,On Base Percentage,Aaron Judge,New York,.458,Player Review
+2024,RBI,Aaron Judge,New York,144,Player Review
+2024,Runs,Juan Soto,New York,128,Player Review
+2024,Slugging Average,Aaron Judge,New York,.701,Player Review
+2024,Stolen Bases,Jose Caballero,Tampa Bay,44,Player Review
+2024,Total Bases,Aaron Judge,New York,392,Player Review
+2024,Triples,Jarren Duran,Boston,14,Player Review
+2024,Complete Games,Kevin Gausman,Toronto,2,Pitcher Review
+2024,ERA,Tarik Skubal,Detroit,2.39,Pitcher Review
+2024,Games,T.J. McFarland,Oakland,79,Pitcher Review
+2024,Saves,Emmanuel Clase,Cleveland,47,Pitcher Review
+2024,Shutouts,Ronel Blanco,Houston,1,Pitcher Review
+2024,Strikeouts,Tarik Skubal,Detroit,228,Pitcher Review
+2024,Winning Percentage,Tarik Skubal,Detroit,.818,Pitcher Review
+2024,Wins,Tarik Skubal,Detroit,18,Pitcher Review
