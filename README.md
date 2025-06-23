@@ -14,5 +14,7 @@ Main Project Components:
 
 Install dependencies:
 pip install -r requirements.txt
+To recreate the database:
+python src/db_import.py
 Run the dashboard:
 streamlit run dashboard.py

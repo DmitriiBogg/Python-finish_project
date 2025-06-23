@@ -4,7 +4,26 @@ import streamlit as st
 
 # Load the data
 df = pd.read_csv("data/player_stats_2000_2025.csv")
-
+# Clean the datas
+df['Team'] = df['Team'].replace({
+    'New York': 'New York Yankees',
+    'Boston': 'Boston Red Sox',
+    'Chicago': 'Chicago White Sox',
+    'Cleveland': 'Cleveland Guardians',
+    'Cleveland Indians': 'Cleveland Guardians',
+    'Detroit': 'Detroit Tigers',
+    'Houston': 'Houston Astros',
+    'Kansas City': 'Kansas City Royals',
+    'Los Angeles': 'Los Angeles Angels',
+    'Anaheim': 'Los Angeles Angels',
+    'Minnesota': 'Minnesota Twins',
+    'Oakland': 'Oakland Athletics',
+    'Seattle': 'Seattle Mariners',
+    'Tampa Bay': 'Tampa Bay Rays',
+    'Texas': 'Texas Rangers',
+    'Toronto': 'Toronto Blue Jays',
+    'Baltimore': 'Baltimore Orioles'
+})
 st.title("Baseball Player Stats Dashboard (2000–2025)")
 
 # Top 10 Players by Selected Category

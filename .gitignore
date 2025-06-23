@@ -10,16 +10,13 @@ build/
 .vscode/
 
 # Environment
+.env
 env/
 venv/
 .venv/
 
-# Data
-data/
-*.csv
-*.xlsx
-*.sqlite
-*.db
+#data
+data/baseball.db
 
 # Logs
 *.log

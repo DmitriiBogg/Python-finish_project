@@ -7,7 +7,7 @@ import csv
 import os
 import time
 
-YEARS = range(2000, 2025)
+YEARS = range(2000, 2026)
 BASE_URL = "https://www.baseball-almanac.com/yearly/yr{year}a.shtml"
 CSV_PATH = "data/player_stats_2000_2025.csv"
 
